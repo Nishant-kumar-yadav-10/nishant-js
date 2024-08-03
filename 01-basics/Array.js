@@ -14,8 +14,9 @@
 //console.log(Array.isArray("nishant"));
 //console.log(Array.from("nishant"));
 //console.log(Array.from({name:"nishant"}));
-//const score1=2
-//const score2=3
-//const score3=9
+const score1=2
+const score2=3
+const score3=9
 
-//console.log(Array.of(score1,score2,score3));
+console.log(Array.of(score1,score2,score3));
+
